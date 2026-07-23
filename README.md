@@ -1,24 +1,30 @@
-# README
+# 🛒 Lista de Compras (Rails Girls 2025)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Uma aplicação web simples e funcional de **Lista de Compras**, desenvolvida durante a edição de 2025 do evento **Rails Girls**.
 
-Things you may want to cover:
+O objetivo principal do projeto foi ter o primeiro contato prático com o ecossistema Ruby on Rails, aprendendo como criar, listar e gerenciar itens em uma aplicação web real.
 
-* Ruby version
+---
 
-* System dependencies
+## 🎯 O que a aplicação faz?
 
-* Configuration
+- **Adicionar itens:** Permite cadastrar novos produtos na lista de compras.
+- **Visualização:** Exibe os itens salvos de forma organizada na tela.
+- **Gerenciamento:** Permite editar ou remover itens da lista conforme a necessidade.
 
-* Database creation
+---
 
-* Database initialization
+## 💡 O que foi aprendido no evento?
 
-* How to run the test suite
+- Fundamentos da linguagem **Ruby**.
+- Estrutura de projetos em **Ruby on Rails** (Models, Views e Controllers).
+- Manipulação e persistência de dados no banco de dados.
+- Utilização de rotas e criação de formulários web.
 
-* Services (job queues, cache servers, search engines, etc.)
+---
 
-* Deployment instructions
+## 💻 Como rodar o projeto na sua máquina
 
-* ...
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/Devisabelarb/NOME-DO-SEU-REPOSITORIO.git](https://github.com/Devisabelarb/NOME-DO-SEU-REPOSITORIO.git)
